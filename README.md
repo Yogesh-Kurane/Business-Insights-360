@@ -24,7 +24,6 @@ This project delivers a unified analytics platform tailored for **AtliQ Hardware
 ## 🌐 Live Dashboard
 
 🔗 **[View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzQzZjI0OTMtYWQxNS00ZTgzLWFiYTYtMzgxZmFhYTdlZjZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
-*(Replace this link with your live Power BI dashboard URL if hosted online)*
 
 ---
 
