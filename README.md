@@ -1,6 +1,6 @@
-# 📊 Business Insights 360 – Power BI Project
+# 📊 Business Insights 360 | Tools: Power BI, SQL, Excel, Dax Studio
 
-Welcome to the **Business Insights 360** Power BI project repository! 🚀  
+Welcome to the **Business Insights 360** project repository! 🚀  
 This project delivers a unified analytics platform tailored for **AtliQ Hardware**, offering actionable insights across **Finance, Sales, Marketing, Supply Chain**, and **Executive Decision-Making**.
 
 ---
