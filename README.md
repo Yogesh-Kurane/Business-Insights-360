@@ -52,3 +52,5 @@ This project showcases how advanced BI tools like Power BI can transform raw dat
 
 ---
 
+## 📩 Contact & Feedback  
+**[LinkedIn](https://www.linkedin.com/in/yogeshkurane/)**  
